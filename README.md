@@ -9,9 +9,13 @@ NOTE: running x11 app with following method might no be fully compatible, try it
 
 ## Requirement
 [Homebrew](https://brew.sh/)
+
 [XQuartz](https://www.xquartz.org/)
+
 [Quart-wm](https://gitlab.freedesktop.org/xorg/app/quartz-wm)
+
 [Rofi](https://davatorium.github.io/rofi/)
+
 [Hammerspoon](https://www.hammerspoon.org/) - Optional
 
 ## Installation
