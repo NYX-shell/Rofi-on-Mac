@@ -33,17 +33,16 @@ If you already have homebrew installed, copy these to your terminal:
 $ brew install xquartz quartz-wm rofi
 ```
 
-### about these package
-If you want to know more about the package, you can run the following command:
-```bash
-$ brew info xquartz quartz-wm rofi
-```
-
 3.runing rofi
 
 Now your machine shoult be able to run rofi, by copying this to terminal:
 ```bash
 $ rofi
 ```
-
 NOTE: Since you are runing rofi though XQuartz on mac, rofi might have some wired behavior.
+
+### about these package
+If you want to know more about the package, you can run the following command:
+```bash
+$ brew info xquartz quartz-wm rofi
+```
